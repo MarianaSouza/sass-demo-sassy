@@ -43,7 +43,7 @@ body main section#card ul {
 }
 
 body main section#card ul li {
-  margin-bottom: 10px;
+  margin-bottom: 15px;
 }
 
 body main section#card ul li span {
@@ -79,5 +79,14 @@ body main section#primary p {
 
 body main section#primary a {
   color: #001333;
+  border-radius: 15px;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  background-color: #FFF6BB;
+  display: block;
+  text-align: center;
+  margin: 50px auto 0 auto;
+  padding: 15px;
 }
 /*# sourceMappingURL=main.css.map */

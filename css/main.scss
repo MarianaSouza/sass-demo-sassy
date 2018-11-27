@@ -47,7 +47,7 @@ body {
                 margin:0; 
                 padding:0;
                 li{
-                    margin-bottom:10px;
+                    margin-bottom:15px;
                     span {
                         position: absolute;
                         width: 30px;
@@ -85,6 +85,15 @@ body {
 
             a{
                 color: color(primary-dark);
+                border-radius:$borders;
+                text-decoration:none;
+                text-transform:uppercase;
+                font-weight:bold;
+                background-color:color(accent);
+                display:block;
+                text-align:center;
+                margin: 50px auto 0 auto;
+                padding: $padding15;
             }
 
         }
