@@ -1,4 +1,4 @@
-# sass-demo-sassy
+# Responsive one page template built in Sass
 
 Sass Demo project that presents examples of variables, functions, mixins, and a sass map (in progress)
 
