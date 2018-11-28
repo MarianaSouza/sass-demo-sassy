@@ -5,7 +5,7 @@ $borders: 15px;
 
 // Sass map
 $colors:( primary: #005DFF,
-    primary-light: lighten(#005DFF, 45%),
+    primary-light: lighten(#005DFF, 40%),
     primary-dark: darken(#005DFF, 40%),
     accent: #FFF6BB
  );
@@ -87,7 +87,7 @@ body {
                     strong{
                         display:inline-block;
                         margin-left:max(40px);
-                        margin-top:5px;
+                        margin-top:7px;
                     
                     }
                 }
